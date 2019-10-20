@@ -50,3 +50,5 @@ plainwhite:
   social_links:
     github:  chrisbay
     linkedIn: in/chbay # format: locale/username
+
+destination: docs
