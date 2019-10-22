@@ -24,8 +24,8 @@ Various music articles and interviews.
 
 **2016-03-09** - ["'It felt like coming home this time around': An Interview with Basia Bulat"](https://kdhx.org/articles/music-news/2-it-felt-like-coming-home-this-time-around-an-interview-with-basia-bulat)
 
-*Note:* I published many more pieces for KDHX between 2012 and 2016 which were taken down when the station moved to a new site. I may post these elsewhere at some point. 
+I wrote many more pieces for KDHX between 2012 and 2016 which were taken down when the station moved to a new site. I may post these elsewhere at some point.
 
 ## Riverfront Times
 
-**2011-2012** - [Various](https://www.riverfronttimes.com/stlouis/ArticleArchives?author=2339377&sortType=recent) - Various music articles and blog posts written for the Riverfront Times.
+**2011-2012** - [Various](https://www.riverfronttimes.com/stlouis/ArticleArchives?author=2339377&sortType=recent) - Music articles and blog posts written for the Riverfront Times.

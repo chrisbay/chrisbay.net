@@ -52,3 +52,5 @@ plainwhite:
     linkedIn: in/chbay # format: locale/username
 
 destination: docs
+exclude: [README.md, Gemfile, Gemfile.lock]
+keep_files: [CNAME]
