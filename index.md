@@ -11,6 +11,8 @@ title: Chris Bay
 
 Tech-related articles and podcasts that I have written or participated in. I have also written quite a few [music articles](/music-articles/).
 
+**2020-03-13** - [How to Bridge the Teacher-Programmer Gap (Tweak Your Biz)](https://tweakyourbiz.com/technology/education-technology/teacher-programmer-gap) - Some ideas on how to find more coding teachers.
+
 **2020-02-10** - [Why Learning to Code Could Be the Best Thing You Do for Your Career (Thrive Global)](https://thriveglobal.com/stories/why-learning-to-code-could-be-the-best-thing-you-do-for-your-career/) - Why even non-developers can benefit from learning to code. 
 
 **2018-12-06** - ["DevOps In the Wild" (LaunchCode Blog)](https://www.launchcode.org/blog/devops-in-the-wild/) - A beginner-friendly overview of DevOps.
